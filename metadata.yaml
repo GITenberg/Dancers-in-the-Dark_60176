@@ -1,0 +1,26 @@
+_repo: Dancers-in-the-Dark_60176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Speare, Dorothy
+    birthdate: 1898
+    deathdate: 1951
+    gutenberg_agent_id: '50831'
+    url: http://www.gutenberg.org/2009/agents/50831
+description: ''
+gutenberg_issued: '2019-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60176'
+  lccn: '22008045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Dancers in the Dark
+url: http://www.gutenberg.org/ebooks/60176
